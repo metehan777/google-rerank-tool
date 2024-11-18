@@ -7,7 +7,7 @@ Google ReRanker, arama sonuçlarını analiz ederek yeniden sıralamak ve belirl
 - **Alaka Düzeyi (Relevance Score)**: Arama sorgusu ile içerik arasındaki benzerliği hesaplar.
 - **İçerik Kalitesi (Content Quality)**: İçeriğin okunabilirliğini, kelime çeşitliliğini ve uzunluğunu analiz eder.
 - **Domain Otoritesi (Domain Authority)**: Belirli domain'lerin otoritesini ölçer.
-- **Tazelik (Freshness)**: İçeriğin ne kadar güncel olduğunu değerlendirir.
+- **Güncellik (Freshness)**: İçeriğin ne kadar güncel olduğunu değerlendirir.
 - **Kullanıcı Niyeti Uyum Skoru (User Intent Match)**: Sorgunun kullanıcı niyetiyle uyumluluğunu analiz eder.
 - **Teknik SEO Faktörleri (Technical SEO)**: Başlık, meta açıklama ve URL uzunluklarını değerlendirir.
 - **Kullanıcı Sinyalleri (User Signals)**: Varsayılan olarak bounce rate ve oturum süresini hesaba katar.
