@@ -1,5 +1,7 @@
 # Google ReRanker - Arama Sonuçlarını Analiz ve Yeniden Sıralama Aracı
 
+FOR ENGLISH EXPLANATION read here; (https://metehan.ai/blog/an-open-source-google-reranker-transforming-google-results-with-ai-magic/)[https://metehan.ai/blog/an-open-source-google-reranker-transforming-google-results-with-ai-magic/]
+
 Google ReRanker, arama sonuçlarını analiz ederek yeniden sıralamak ve belirli SEO faktörlerini optimize etmek için geliştirilmiş bir Python aracıdır. Bu araç, NLP ve Transformer modellerini kullanarak, alaka düzeyi, içerik kalitesi, domain otoritesi gibi çeşitli faktörlere dayalı sıralama yapar.
 
 ## Özellikler / Features
