@@ -21,7 +21,7 @@ Google ReRanker, arama sonuçlarını analiz ederek yeniden sıralamak ve belirl
 Aşağıdaki Python kütüphanelerini yükleyerek başlayabilirsiniz:
 
 ```bash
-pip install numpy pandas scikit-learn spacy requests beautifulsoup4 torch transformers
+pip install -r requirements.txt
 ```
 
 ### Spacy Modeli
@@ -39,9 +39,9 @@ python -m spacy download en_core_web_sm
 Bu depoyu klonlayın ve GoogleReRanker sınıfını kullanarak analiz yapabilirsiniz.
 
 ```bash
-git clone https://github.com/username/google-reranker.git
-cd google-reranker
-python main.py
+git clone https://github.com/metehan777/google-rerank-tool.git
+cd google-reranker-tool
+python s.py
 ```
 
 ### 2. Arama Sorgusu Girin
